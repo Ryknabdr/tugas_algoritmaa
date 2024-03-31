@@ -1,5 +1,5 @@
 NAMA	:Muh Abdul Raihan
-NIM		:23090096
+NIM	:23090096
 KELAS	:2C
 
 Studi Kasus:
