@@ -7,21 +7,7 @@ Sebuah toko online bernama "Electrophone" ingin memperkenalkan sistem baru untuk
 menghitung total biaya pembelian bagi pelanggan mereka. Sistem ini akan memungkinkan 
 pelanggan untuk memasukkan jumlah pembelian, dan kemudian akan menghitung total biaya 
 pembelian termasuk pajak dan biaya pengiriman.
-Jaenab adalah pelanggan setia Electrophone. Dia ingin membeli sebuah earphone terbaru 
-yang dijual di toko online tersebut
-Berikut adalah pengalaman pembelian jaenab:
-1. Diana mengunjungi situs web Electrophone dan memilih earphone yang ingin dibeli.
-2. Dia masuk ke halaman pembayaran.
-3. Sistem menyambut Diana dan meminta dia untuk memasukkan jumlah pembelian.
-   - Jaenab memasukkan jumlah pembelian sebesar $100.
-4. Sistem menghitung total biaya pembelian:
-   - Jumlah Pembelian: $100
-   - Pajak (20% dari $100): $20
-   - Biaya Pengiriman: $100
-   - Total Biaya: $100 + $20 + $100 = $220
-5. Sistem menampilkan total biaya kepada Jaenab
-   - Total biaya pembelian Diana adalah $220
-6. jaenab menyelesaikan pembayaran dan transaksi selesai.
+
 
 
 
