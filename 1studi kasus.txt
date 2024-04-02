@@ -10,17 +10,17 @@ pembelian termasuk pajak dan biaya pengiriman.
 
 Jaenab adalah pelanggan setia Electrophone. Dia ingin membeli sebuah earphone terbaru yang dijual di toko online tersebut
 Berikut adalah pengalaman pembelian jaenab:
-1. Diana mengunjungi situs web Electrophone dan memilih earphone yang ingin dibeli.
+1. Jaenab mengunjungi situs web Electrophone dan memilih earphone yang ingin dibeli.
 2. Dia masuk ke halaman pembayaran.
-3. Sistem menyambut Diana dan meminta dia untuk memasukkan jumlah pembelian.
+3. Sistem menyambut jaenab dan meminta dia untuk memasukkan jumlah pembelian.
    - Jaenab memasukkan jumlah pembelian sebesar $100.
 4. Sistem menghitung total biaya pembelian:
    - Jumlah Pembelian: $100
-   - Pajak (20% dari $100): $20
-   - Biaya Pengiriman: $100
-   - Total Biaya: $100 + $20 + $100 = $220
+   - Pajak (10% dari $100): $10
+   - Biaya Pengiriman: $5000
+   - Total Biaya: $100 + $20 + $5000 = $2
 5. Sistem menampilkan total biaya kepada Jaenab
-   - Total biaya pembelian Diana adalah $220
+   - Total biaya pembelian Jaenab adalah $
 6. jaenab menyelesaikan pembayaran dan transaksi selesai.
 
 
